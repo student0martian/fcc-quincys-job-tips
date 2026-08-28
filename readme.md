@@ -25,6 +25,10 @@ In this workshop, you will practice working with semantic HTML by building a web
 Begin by creating an `h1` element with the text `Quincy's Tips for Getting a Developer Job`.  
 
 
+### Step 2  
+Now, create a paragraph element below the `h1` element. Inside this paragraph add the text `Learning to code is hard, but as Quincy Larson says, You can become a developer.`  
+
+
 [Click on the link to see my work https://student0martian.github.io/fcc-quincys-job-tips/](https://student0martian.github.io/fcc-quincys-job-tips/)  
 
 
