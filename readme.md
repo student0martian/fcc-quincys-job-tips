@@ -45,6 +45,28 @@ Most modern browsers will add quotation marks around an inline quote automatical
 Inside the paragraph wrap `You can become a developer.` in an inline quotation element, keeping the rest of the paragraph unchanged.  
 
 
+### Step 4  
+If the source of a quote is a website, you can cite it with the `cite` attribute. The value of this attribute should be a valid URL. While this attribute doesn't change the presentation of the block quote, it's very helpful for giving screen readers and search engines more information about the quote.  
+Here is an example of an inline quotation element with a `cite attribute`:  
+
+**Example Code**  
+```html
+<p>
+ Nancy said,
+  <q cite="https://example.com">Learning is fun!</q>
+</p>
+```  
+
+Add the `cite` attribute to the inline quotation element with this URL:  
+`https://www.freecodecamp.org/news/learn-to-code-book/`  
+
+
+
+
+
+
+
+
 [Click on the link to see my work https://student0martian.github.io/fcc-quincys-job-tips/](https://student0martian.github.io/fcc-quincys-job-tips/)  
 
 
