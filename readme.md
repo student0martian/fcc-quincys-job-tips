@@ -98,6 +98,11 @@ Now, add a `cite` attribute to the block quotation element with the URL
 `https://www. freecodecamp.org/news/learn-to-code-book/`.  
 
 
+### Step 9  
+Below the block quotation element, add a paragraph element with the text `&mdash;Quincy Larson, How to Learn to Code and Get a Developer Job [Full Book]`.  
+
+`&mdash;` is an HTML entity that represents an em dash `-`.  
+
 
 
 
