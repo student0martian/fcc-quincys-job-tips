@@ -123,6 +123,12 @@ Inside the `p` element below the block quotation element, wrap `How to Learn to 
 Developer Job [Full Book]` in a `cite` element.  
 
 
+### Step 11  
+Inside the second `section` element, nest an `h2` element with the text `Importance of Networking`.  
+
+Below this heading, add a block quotation element with a `cite` attribute with the value
+`https://www.freecodecamp.org/news/learn-to-code-book/`.  
+
 
 
 [Click on the link to see my work https://student0martian.github.io/fcc-quincys-job-tips/](https://student0martian.github.io/fcc-quincys-job-tips/)  
