@@ -149,6 +149,20 @@ In the second section, inside the existing block quotation element, add four `p`
 - `Go to tech meetups and conferences. Travel if you have to.`  
 
 
+## Step 13  
+In the third and last `section` element, you are going to create the same HTML structure as you did in the preceding section.  
+First, inside the last section, add an `h2` element with the text  
+`Importance of Building a Reputation`.  
+
+Then, below the `h2` element, add a block quotation element with a `cite` attribute set to `https://www.freecodecamp.org/news/learn-to-code-book/`  
+
+Lastly, nest three paragraph elements inside the block quotation element with the following texts, in order:  
+1. `Share short video demos of your projects.`
+2. `Keep applying to speak at bigger and bigger conferences.`
+3. `Hang out at hackerspaces and help people who are even newer to coding than you.`.   
+
+Congratulations! With this you have finished this workshop.  
+
 
 [Click on the link to see my work https://student0martian.github.io/fcc-quincys-job-tips/](https://student0martian.github.io/fcc-quincys-job-tips/)  
 
